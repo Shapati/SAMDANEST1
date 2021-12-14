@@ -31,6 +31,7 @@ body{
     color: white;
     margin-left: 50px;
     padding: 10px;
+   transition: 0.8s ease
 }
 .na li a:hover{
     background: white;
